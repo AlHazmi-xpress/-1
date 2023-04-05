@@ -46,9 +46,9 @@ button {
   margin-top: 0px;
   border-radi4us: 0px 0px 30px 30px;
   background: white;
-  box-shadow: 0px 5px 15px rgba(0, 0, 0, .15);
+  bo5x-shadow: 0px 5px 15px rgba(0, 0, 0, .15);
   border-radius: 30px;
-  border: 1.5px solid midnightblue
+  bo5rder: 1.5px solid midnightblue
 }
 
 ::placeholder {
